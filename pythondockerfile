@@ -6,4 +6,4 @@ RUN java --version && \
     java --version
 
 
-CMD['bash']
+CMD["bash"]
